@@ -1,0 +1,7 @@
+{
+  "issuer": "<MyDigital ID SSO DNS Host>/realms/<Realm>",
+  "clientID": "<Client ID>",
+  "redirectUri": "io.curity.client:/callback",
+  "postLogoutRedirectUri": "io.curity.client:/logoutcallback",
+  "scope": "openid profile"
+}
